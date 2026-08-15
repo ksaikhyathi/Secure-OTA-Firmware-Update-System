@@ -1,0 +1,15 @@
+{
+    "versions": [
+        {
+            "version": "1.0.1",
+            "filename": "firmware_v1.0.1.bin",
+            "size": 18984,
+            "sha256": "cfbf4ecf03d4b3f9aa1bee5ed7efb21539bfcd19922567db7f5e8356ca28f57e",
+            "uploaded_at": "2026-08-06T12:14:24.415842",
+            "target_bank": "B",
+            "page_count": 19
+        }
+    ],
+    "latest_version": "1.0.1",
+    "latest_file": "firmware_v1.0.1.bin"
+}

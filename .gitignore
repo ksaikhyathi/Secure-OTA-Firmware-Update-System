@@ -1,0 +1,36 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE metadata
+.settings/
+.metadata/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.map
+*.list
+
+# Generated firmware files
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Windows
+Thumbs.db
+*.bin.combined
